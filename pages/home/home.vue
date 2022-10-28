@@ -119,7 +119,7 @@
 		width: 200px;
 		height: 200px;
 		position: absolute;
-		left:26%;
+		left:24%;
 		top:35%;
 	}
 	.time {
@@ -138,7 +138,7 @@
 		color: #14c559;
 		text-align: center;
 		width: 96%;
-		top: 63%;
+		top: 66%;
 		font-size:28px;
 		font-weight: bold;
 	}
@@ -148,7 +148,7 @@
 		color: #14c559;
 		text-align: center;
 		width: 96%;
-		top: 68%;
+		top: 72%;
 		font-size:18px;
 	}
 	.bottom_info {
